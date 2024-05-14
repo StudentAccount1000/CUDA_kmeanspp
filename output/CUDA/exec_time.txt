@@ -1,0 +1,17 @@
+small: 24.025ms
+small: 0.858447ms
+small: 0.833962ms
+small: 0.836643ms
+small: 0.848801ms
+
+half: 2468.74ms
+half: 2390.99ms
+half: 2397.97ms
+half: 2429.23ms
+half: 2425.34ms
+
+full: 3766.93ms
+full: 3719.25ms
+full: 3660.15ms
+full: 3671.29ms
+full: 3717.9ms
